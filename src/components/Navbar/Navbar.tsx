@@ -64,7 +64,7 @@ const Navbar = () => {
             <NavLink to="/" className="text-white hover:text-gray-300">
               Component
             </NavLink>
-            <NavLink to="/template" className="text-white hover:text-gray-300">
+            <NavLink to="/collections" className="text-white hover:text-gray-300">
               Template
             </NavLink>
             <NavLink to="/docs" className="text-white hover:text-gray-300">
